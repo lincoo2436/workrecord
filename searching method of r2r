@@ -1,1 +1,5 @@
 ## pps films
+using zhihuiya
+date 20250919
+tac:(pps or 聚苯硫醚 or "")
+tac:(("polyphenylene sulfide" OR PPS) AND (roll-to-roll OR "roll to roll" OR R2R) AND (diaphragm OR microphone OR speaker))
